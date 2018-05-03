@@ -1,0 +1,15 @@
+{
+  "name": "azure-iot-starterkit-setuputil",
+  "version": "1.0.0",
+  "description": "Send IoT device's IP address and status to device twin",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azure CAT E2E",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iothub": "^1.3.0"
+  }
+}
